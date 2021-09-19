@@ -1,0 +1,7 @@
+{
+    "name": "Hammy",
+    "github": "hammyyzack",
+    "repo" : "https://github.com/Hammyzack/Exam1.git", 
+    "app" : "url to the heroku app you create for this", 
+    "skills" : ["Organized", "Time-Management", "Communication", "Teamwork skills" ]
+}
