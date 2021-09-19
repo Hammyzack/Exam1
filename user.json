@@ -2,6 +2,6 @@
     "name": "Hammy",
     "github": "Hammyzack",
     "repo" : "https://github.com/Hammyzack/Exam1.git", 
-    "app" : "https://Exam1.herokuapp.com/", 
+    "app" : "https://hammys-heroku.herokuapp.com/", 
     "skills" : ["Organized", "Time-Management", "Communication", "Teamwork skills" ]
 }
